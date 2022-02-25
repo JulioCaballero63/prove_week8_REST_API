@@ -1,1 +1,2 @@
 GET http://localhost:8080/professional
+# This GET request returns a JSON object with professional data of the client, using the professional route.
